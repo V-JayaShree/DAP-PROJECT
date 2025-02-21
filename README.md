@@ -1,1 +1,1 @@
-# DAP-PROJECT
+Sales Performance Analysis: Identifying Peak and Off-Peak Trends Understanding sales trends across time periods to optimize marketing and stock. Data aggregation (sales per month), Handling outliers (sudden spikes in sales), Time-based analysis (sales trends over months), Trend visualization (bar charts for high vs. low sales periods), Comparative analysis (sales across different regions)
